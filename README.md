@@ -1,4 +1,4 @@
-HTML Web scraping on Mars data to create a Flask web application using Python, Beautiful Soup, Splinter and MongoDB
+*HTML Web scraping on Mars data to create a Flask web application using Python, Beautiful Soup, Splinter and MongoDB*
 # Mission-to-Mars
 
 # Overview
