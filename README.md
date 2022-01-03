@@ -1,7 +1,7 @@
 # Mission-to-Mars
 
 # Overview
-To develop an appt to scrape the following information about the planet Mars:
+To develop an appt to webscrape the following information about the planet Mars:
 * Latest News
 * Featured Image
 * Facts about the planet
