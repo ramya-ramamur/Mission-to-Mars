@@ -39,7 +39,7 @@ Initial App Design
 <img width="1147" alt="Screen Shot 2022-01-03 at 2 01 49 AM" src="https://user-images.githubusercontent.com/75961057/147922582-eb7de9fc-9135-4ba2-ba5f-fc45706950fb.png">
 
 * Used the Bootstrap 3 grid system to update the index.html file so that the website is mobile-responsive. 
-* Tested the responsiveness of your website using the DevTools.
+* Tested the responsiveness of the website using the DevTools.
 
 **iPad Pro**
 
