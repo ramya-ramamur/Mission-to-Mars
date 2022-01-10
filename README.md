@@ -10,9 +10,9 @@ To develop an app to webscrape the following information about the planet Mars f
 
 # Resources
 - Data Sources: 
-* [Mars Planet Science](https://www.redplanetscience.com/) 
-* [Space Image](https://spaceimages-mars.com/)
-* [Astropedia Search Results | GUSS Astrogeology Science Center](https://www.marshemispheres.com/)
+    * [Mars Planet Science](https://www.redplanetscience.com/) 
+    * [Space Image](https://spaceimages-mars.com/)
+    * [Astropedia Search Results | GUSS Astrogeology Science Center](https://www.marshemispheres.com/)
 
 - Software/Libraries: Visual Studio Code 1.56.0, jupyter Notebook 6.3.0, Jupyter lab 3.0.14, Flask 1.1.2, Splinter 1.26.4, Web Drive Manager, Beautiful Soup, Pymongo, MongoDB 4.4.6, Mongo DB Compass, htmlslib, lxml.
 
